@@ -1,0 +1,12 @@
+#!/usr/bin/env php
+<?php
+
+use Timo\Console\Console;
+
+define('APP_NAME', 'cli');
+define('ROOT_PATH', __DIR__ . DIRECTORY_SEPARATOR);
+
+require ROOT_PATH . 'vendor/autoload.php';
+
+$console = new Console();
+$console->start();

@@ -1,0 +1,24 @@
+{
+    "name": "tomener/timo",
+    "description": "timophp skeleton",
+    "type": "project",
+    "require": {
+        "ext-json": "*",
+        "ext-mbstring": "*",
+        "ext-openssl": "*",
+        "ext-pdo": "*",
+        "ext-sockets": "*",
+        "ext-curl": "*",
+        "ext-fileinfo": "*",
+        "ext-bcmath": "*",
+        "tomener/timophp": "~1.9",
+        "qiniu/php-sdk": "^7.6"
+    },
+    "authors": [
+        {
+            "name": "tomener",
+            "email": "863758705@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
