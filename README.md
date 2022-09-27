@@ -20,7 +20,7 @@
 > php timo serve
 ```
 
-### 打开流浪器访问
+### 打开浏览器访问
 > http://localhost:8090
 
 ## 你也可以配合apache、nginx来运行
